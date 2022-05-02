@@ -4,3 +4,8 @@ matplotlib
 bs4
 networkx
 scipy
+dash
+visdcc
+dash_core_components
+dash_html_components
+dash.dependencies
